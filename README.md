@@ -1,4 +1,4 @@
-# Reporting Dashboard for Petroleum Well Data form Oil Gas Salt Resources Library
+# Reporting Dashboard for Petroleum Well Data form Oil, Gas, Salt Resources Library
 
 The primary objective of this case study is to showcase, through the application of best practices, the systematic process undertaken to develop a comprehensive reporting dashboard using Power BI to visualize Petroleum well Data from Oil, Gas and Salts Resources Library (OGSR). By leveraging industry-leading methodologies, this case study illustrates the step-by-step approach, from data collection and analysis to visualization design, ensuring the creation of an insightful and user-friendly dashboard that meets the specific needs of the regulatory body for consumption by members of the general public.
 
