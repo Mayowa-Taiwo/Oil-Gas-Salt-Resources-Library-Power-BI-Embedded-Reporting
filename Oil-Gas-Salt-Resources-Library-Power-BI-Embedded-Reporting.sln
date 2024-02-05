@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "Oil-Gas-Salt-Resources-Library-Power-BI-Embedded-Reporting", "Oil-Gas-Salt-Resources-Library-Power-BI-Embedded-Reporting.dtproj", "{4652D899-7414-479A-9A56-400D249B10EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4652D899-7414-479A-9A56-400D249B10EF}.Development|Default.ActiveCfg = Development
+		{4652D899-7414-479A-9A56-400D249B10EF}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F05E64F-C29E-4F98-A1C7-5BA0AC6F161A}
+	EndGlobalSection
+EndGlobal
